@@ -1,0 +1,59 @@
+CRITICAL - 2023-10-09 08:06:29 --> Invalid file: "edit_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH/Controllers/UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\UserCrud->singleUser('1')
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/ashams001/Sites/iqWorkx/Supplier/public/index.php')
+CRITICAL - 2023-10-09 08:06:39 --> Invalid file: "edit_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH/Controllers/UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\UserCrud->singleUser('2')
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/ashams001/Sites/iqWorkx/Supplier/public/index.php')
+CRITICAL - 2023-10-09 08:06:43 --> Invalid file: "edit_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH/Controllers/UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\UserCrud->singleUser('2')
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/ashams001/Sites/iqWorkx/Supplier/public/index.php')
+CRITICAL - 2023-10-09 08:15:10 --> Invalid file: "edit_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH/Controllers/UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\UserCrud->singleUser('2')
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/ashams001/Sites/iqWorkx/Supplier/public/index.php')
+CRITICAL - 2023-10-09 10:34:58 --> Invalid file: "edit_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH/Controllers/UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\UserCrud->singleUser('2')
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/Users/ashams001/Sites/iqWorkx/Supplier/public/index.php')
+CRITICAL - 2023-10-09 13:00:57 --> Invalid file: "edit_user.php"
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 39.
+ 1 SYSTEMPATH/View/View.php(214): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('edit_user.php')
+ 2 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render('edit_user', [], true)
+ 3 APPPATH/Controllers/UserCrud.php(32): view('edit_user', [...])
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\UserCrud->singleUser('3')
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserCrud))
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
